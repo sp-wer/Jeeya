@@ -1,0 +1,10 @@
+body{
+    background: url("facebook.png") no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+}
