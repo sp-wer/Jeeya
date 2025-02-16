@@ -1,0 +1,47 @@
+.container{
+    background-color: whitesmoke;
+    width: 10000px;
+    height: 10000px;
+}
+.leftbox{
+    position: relative;
+    left: 100px;
+    box-shadow: 5px 5px 10px rgb(230, 221, 204),
+                -5px -5px -10px rgb(90, 85, 85);
+}
+.rightbox{
+    
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 60%;
+    top: 5%;
+}
+.BOX{
+    background-color: white;
+    border: 3px solid white;
+    width: 250px;
+    height:250px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px;
+}
+.box-2{
+    position: relative;
+    left: 280px;
+    bottom: 256px;
+}
+.box-4{
+    position: relative;
+    left: 280px;
+    bottom:500px;
+}
+.box-3{
+    position: relative;
+    bottom: 245px;
+}
+.box-1 h1{
+    font-size: 20px;
+}
+h2{
+    color: springgreen
+}
