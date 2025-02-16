@@ -1,0 +1,50 @@
+body{
+    background-color: lightgray;
+    color: white;
+}
+.contanier{
+    height: 100vh;
+}
+.leftbox{
+    width: 45%;
+    height: 600px;
+    position: absolute;
+    left: 70px;
+    right: 60px;
+}
+.leftbox img{
+    margin-left: 60px;
+    margin-right: 20px;
+}
+.rightbox{
+    width: 45%;
+    height: 600px;
+    position: absolute;
+    left: 50%;
+    top: 60px;
+}
+.rightbox h1{
+    font-family: sans-serif;
+}
+h1 span{
+    color: springgreen;
+}
+.rightbox p{
+    font-size: 20px;
+    line-height: 40px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+.rightbox button{
+    font-size: 25px;
+    font-family: sans-serif;
+    padding: 20px;
+}
+button span{
+    color: rgb(119, 214, 167);
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(42,235,209);
+    color: rgb(191, 167, 214);
+}
